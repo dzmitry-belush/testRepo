@@ -1,4 +1,4 @@
-GIT start
+GIT
 
 git init
 
@@ -16,9 +16,9 @@ git push origin master 	// pushes
 
 git clone https://github.com/dzmitry-belush/XXX.git	// clones repository from Github
 
-git branch		// see the list of branches
+git branch		// see the current branch
 
-git fetch		// fetches all from Github to local folder
+git fetch		// gets all branches with changes from Github to local folder
 
 git checkoout <branch>	// switches to branch
 
