@@ -6,7 +6,7 @@ git remote add origin https://github.com/dzmitry-belush/XXX.git
 
 git remote show origin	// shows the origin paths
 
-git status
+git status 
 
 git add <file>			// add file to track
 
